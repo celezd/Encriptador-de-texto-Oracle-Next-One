@@ -1,0 +1,1 @@
+# Encriptador-de-texto-Oracle-Next-One
